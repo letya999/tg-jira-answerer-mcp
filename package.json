@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@aashari/mcp-server-atlassian-jira": "^3.3.0"
+  }
+}

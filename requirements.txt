@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+aiogram>=3.17.0
+openai
+mcp
+python-dotenv
