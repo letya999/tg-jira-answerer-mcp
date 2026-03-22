@@ -1,5 +1,6 @@
 fastapi
-uvicorn
+uvicorn[standard]
+watchfiles
 aiogram>=3.17.0
 openai
 mcp
